@@ -8,7 +8,7 @@ I bridge the gap between complex financial systems and modern cloud and automati
 ## 🛠 Tech Stack & Tools
 - **Data & Analytics:** SQL (Intermediate), Power BI, Excel (Advanced), Python (Basics)
 - **Cloud & DevOps:** Azure (AZ-900 in progress), Agile Methodologies, Jira
-- **Currently Leveling Up:** Tableau, R, C++, and Complex Python Automation
+- **Currently Leveling Up:** Java, R, and Complex Python Automation
 
 ## 📊 Professional Focus
 - **🔭 Currently working on:** Building a portfolio of automated financial auditing tools and cloud-native data pipelines.
@@ -21,6 +21,6 @@ I bridge the gap between complex financial systems and modern cloud and automati
 
 ## 📈 My Certification Roadmap 2026
 - [ ] **Microsoft Certified: Azure Fundamentals (AZ-900)** - *In Progress*
-- [ ] **Agile/Jira Professional Certification** - *In Progress*
+- [ ] **Agile/Jira Professional Certification** - *Completed*
 - [ ] **Tableau Desktop Specialist** - *Upcoming*
 - [ ] **Python for Data Science (Advanced)** - *Upcoming*
