@@ -21,6 +21,6 @@ I bridge the gap between complex financial systems and modern cloud and automati
 
 ## 📈 My Certification Roadmap 2026
 - [ ] **Microsoft Certified: Azure Fundamentals (AZ-900)** - *In Progress*
-- [ ] **Agile/Jira Professional Certification** - *Completed*
+- [x] **Agile/Jira Professional Certification** - *Completed*
 - [ ] **Tableau Desktop Specialist** - *Upcoming*
 - [ ] **Python for Data Science (Advanced)** - *Upcoming*
